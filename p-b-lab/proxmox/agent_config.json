@@ -1,0 +1,5 @@
+{
+  "default_ram": 1024,
+  "default_cpu": 1,
+  "default_os": "debian12"
+}
